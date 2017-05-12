@@ -1,0 +1,62 @@
+<resources>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="login">Log in</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <!-- Strings related to Sign Up -->
+    <string name="sign_up">New User Registration</string>
+    <string name="email_signUp">Email Id</string>
+    <string name="conf_email_signUp">Confirm Email Id</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="fathers_name">Father\'s Name </string>
+    <string name="course">Course</string>
+    <string name="branch">Branch</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="roll_no">Roll No.</string>
+    <string name="register">Register</string>
+    <string name="logged_in">Logged In As :</string>
+
+
+    <string name="app_name">Surya World</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="action_save">Save</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="itemsName">
+        <item>A-Z Movie Songs</item>
+        <item>Yuvan Shankar Raja Songs</item>
+        <item>Harris Jayaraj Songs</item>
+        <item>AR Rahman Songs</item>
+        <item>Ilayaraja Songs</item>
+    </string-array>
+
+    <string name="title_activity_pet_clinic">PetClinicActivity</string>
+</resources>

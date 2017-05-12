@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:weightSum="10"
+    android:layout_height="200dp"
+    android:background="@drawable/side_nav_bar"
+
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:paddingBottom="5dp"
+
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:layout_width="100dp"
+            android:id="@+id/user_image"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:src="@drawable/user_image"
+            app:civ_border_width="5dp"
+            app:civ_border_color="@color/concrete"/>
+
+        <ImageView
+
+            android:id="@+id/img_camera"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="33dp"
+            android:layout_marginLeft="35dp"
+            android:src="@drawable/camera_alt_black" />
+
+    </FrameLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="2dp"
+            android:text="Hello, "
+            android:textColor="@android:color/white"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="2dp"
+            android:textStyle="bold"
+            android:text="Rahul"
+            android:id="@+id/txtUserName"
+            android:textColor="@android:color/white"
+            android:fontFamily="Roboto Thin"
+            tools:targetApi="jelly_bean" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

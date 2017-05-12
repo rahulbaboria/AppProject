@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "897859715864",
+    "firebase_url": "https://appproject-f0af6.firebaseio.com",
+    "project_id": "appproject-f0af6",
+    "storage_bucket": "appproject-f0af6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897859715864:android:8bf790a922af301b",
+        "android_client_info": {
+          "package_name": "com.northpapers.appproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897859715864-t8dibf18kf2re36svfqvd18c4rgdilta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChSxC0DG6cGdBHrbquim0nGh0oRL8jwek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

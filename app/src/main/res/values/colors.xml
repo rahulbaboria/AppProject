@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorblue">#51427d</color>
+
+
+    <color name="colorReset">#ffa700</color>
+    <color name="colorY">#f2d000</color>
+    <color name="green">#5fb000</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparentT">#33000000</color>
+
+    <color name="card_details">#d1d1d1</color>
+    <color name="download">#8d0000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="red1">#820000</color>
+    <color name="surya">#474740</color>
+
+    <color name="concrete">#95a5a6</color>
+</resources>
